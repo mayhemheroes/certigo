@@ -1,0 +1,6 @@
+project: certigo
+target: cerigo
+
+cmds:
+  - cmd: /certigo dump @@
+    env: {}
